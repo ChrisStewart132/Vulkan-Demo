@@ -1,2 +1,9 @@
 # Vulkan-Demo
 Demo
+
+w,a,s,d move camera
+hold middle mouse to rotate
+q,e to zoom in camera (not complete, but possible)
+
+//vulkan version 1.0.61.1
+//GLFW WINDOW
